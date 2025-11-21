@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "info.taiju.presentation.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

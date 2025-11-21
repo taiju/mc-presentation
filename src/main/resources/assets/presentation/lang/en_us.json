@@ -1,0 +1,13 @@
+{
+  "itemGroup.presentation": "Example Mod Tab",
+  "block.presentation.example_block": "Example Block",
+  "item.presentation.example_item": "Example Item",
+
+  "presentation.configuration.title": "Presentation Configs",
+  "presentation.configuration.section.presentation.common.toml": "Presentation Configs",
+  "presentation.configuration.section.presentation.common.toml.title": "Presentation Configs",
+  "presentation.configuration.items": "Item List",
+  "presentation.configuration.logDirtBlock": "Log Dirt Block",
+  "presentation.configuration.magicNumberIntroduction": "Magic Number Text",
+  "presentation.configuration.magicNumber": "Magic Number"
+}
