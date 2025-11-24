@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "info.taiju.presentation.mixin",
+  "package": "info.taiju.minecraft.presentation.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [],
   "injectors": {

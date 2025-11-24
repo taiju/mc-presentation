@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "presentation:item/last_slide_switch"
+    }
+}
