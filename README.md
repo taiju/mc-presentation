@@ -46,7 +46,7 @@ You can control slides using commands or **Controller Items**.
 
 **Using Controller Items:**
 1. Get the items: `/presentation controller my_presentation`
-2. You will receive two items:
+2. You will receive 4 items:
     *   **Next Slide Switch**: Right-click to go to the next slide.
     *   **Previous Slide Switch**: Right-click to go to the previous slide.
     *   **Last Slide Switch**: Right-click to go to the last slide.
