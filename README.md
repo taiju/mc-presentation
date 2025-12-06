@@ -2,6 +2,12 @@
 
 A Minecraft mod that allows you to display image presentations in-game.
 
+![Screenshot](screenhsot/2025-12-07_07.32.25.png)
+
+## About
+
+This mod was created as a presentation tool for [a event](https://regional.rubykaigi.org/hokuriku01/), where the author actually used it to give a presentation in Minecraft.
+
 ## Installation
 
 1.  Install [Minecraft](https://www.minecraft.net/).
