@@ -64,6 +64,9 @@ You can control slides using commands or **Controller Items**.
 > 2. Place it and set the command: `presentation slide next my_presentation`
 > 3. Attach a button to the block.
 
+> [!TIP]
+> For a better viewing experience, switch to **Front Third Person view** (F5 twice) and apply the **Invisibility effect** (`/effect give @s invisibility`) if needed.
+
 ## Requirements
 
 *   Minecraft: 1.21.8
