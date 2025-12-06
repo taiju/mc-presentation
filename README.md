@@ -12,8 +12,12 @@ This mod was created as a presentation tool for [a event](https://regional.rubyk
 
 1.  Install [Minecraft](https://www.minecraft.net/).
 2.  Install [NeoForge](https://neoforged.net/) (Version 21.8.51 or later).
-3.  Download the mod file (`presentation-x.x.x.jar`).
-4.  Place the jar file in your `mods` folder.
+3.  Build the mod from source:
+    ```bash
+    ./gradlew build
+    ```
+4.  The built jar file will be in the `build/libs/` folder.
+5.  Place the jar file in your `mods` folder.
 
 ## Quick Start
 
